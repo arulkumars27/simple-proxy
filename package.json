@@ -1,0 +1,23 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "simple proxy app using express-http-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arulkumars27/simple-proxy.git"
+  },
+  "author": "Arul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arulkumars27/simple-proxy/issues"
+  },
+  "homepage": "https://github.com/arulkumars27/simple-proxy#readme",
+  "dependencies": {
+    "express-http-proxy": "^2.0.0",
+    "expressjs": "^1.0.1"
+  }
+}
